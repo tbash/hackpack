@@ -30,7 +30,5 @@ public class Hackpack {
         System.out.println(poly.has_point(5, 5));
         System.out.println(poly.has_point(50, 6));
 
-        
-
     }
 }
